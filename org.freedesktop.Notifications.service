@@ -1,0 +1,6 @@
+[D-BUS Service]
+Name=org.freedesktop.Notifications
+Exec=/home/rafael/Projects/gnotifyd/build/gnotifyd
+# User=rafael
+# SystemdService=gnotifyd.service
+
